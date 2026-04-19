@@ -1,100 +1,112 @@
-# Hi 👋, I'm Muhammed Rahees
+<!-- ======================= HEADER / BANNER ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AWS+%26+DevOps+Learner;Cloud+Enthusiast;Future+DevOps+Engineer;Always+Learning+New+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Muhammed%20Rahees&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AWS+%26+DevOps+Learner;Cloud+Enthusiast;CI%2FCD+%7C+Kubernetes+%7C+Docker;Future+DevOps+Engineer" />
 </p>
 
 ---
 
-🚀 **AWS & DevOps Learner | Cloud Enthusiast**
+<!-- ======================= HERO IMAGE ======================= -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
-* 🌱 Currently learning **AWS, Kubernetes & CI/CD**
-* 💻 Passionate about **Cloud & Automation**
-* 🚀 Building real-world DevOps projects
-* 🎯 Goal: Become a **DevOps Engineer**
+* 🌱 Learning **AWS, Kubernetes, Terraform, CI/CD**
+* ⚙️ Focused on **automation, scalability, reliability**
+* 🧪 Building hands-on projects (Docker, K8s, Jenkins)
+* 🎯 Target role: **DevOps / Cloud Engineer (Entry-Level)**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Cloud & DevOps Toolkit
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+
+### 📦 Containers & Orchestration
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)
+
+### 🔁 CI/CD
+
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 
-### 💻 Programming
+### 🏗️ Infrastructure as Code
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
 
-### ⚙️ Tools
+### 📊 Monitoring & Logging
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+
+### ⚙️ Systems & Tools
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-* 🔹 Django App Deployment on AWS
-* 🔹 Kubernetes Cluster Setup
-* 🔹 Dockerized Go Web Application
-* 🔹 CI/CD Pipeline using Jenkins
+* 🔹 **Django on AWS (EC2 + Nginx + Gunicorn)**
+* 🔹 **Kubernetes Deployment (Minikube / EKS)**
+* 🔹 **Dockerized Go Web App**
+* 🔹 **CI/CD Pipeline (Jenkins + GitHub Actions)**
+
+> Tip: Pin these repos on your profile and add short READMEs with architecture diagrams.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Connect with Me
+## 🤝 Connect
 
 * 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
 * 📧 Email: [your@email.com](mailto:your@email.com)
 
 ---
 
-## 🚀 Fun Fact
+## ⚡ What I’m Working On
 
-⚡ I love automating things and building scalable systems!
+* Building **end-to-end CI/CD pipelines**
+* Practicing **K8s deployments & Helm charts**
+* Learning **Terraform modules & AWS services**
 
 ---
-## Hi there 👋
 
-<!--
-**m-rahees/m-rahees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
